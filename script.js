@@ -8,7 +8,7 @@ while (guess !== number) {
   } else if (guess > number) {
     alert('Your guess was too big, try again')
   } else {
-    alert('You guessed correctly. Good Job!') 
-    {break} 
+    alert('You guessed correctly. Good Job!')  
+    { break }
   }
-  }
+}
