@@ -9,6 +9,6 @@ while (guess !== number) {
     alert('Your guess was too big, try again')
   } else {
     alert('You guessed correctly. Good Job!')
-    break 
- }
+    break
+  }
 }
